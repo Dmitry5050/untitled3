@@ -20,7 +20,7 @@ public class Main {
             // The third error is in this block
             System.out.println("Have a good day!");
         } else if (naturalNumber == 3) {
-            System.out.println("You're very good at fixing bugs.");
+            System.out.println("You're very good   at fixing bugs.");
         } else if (naturalNumber == 4) {
             System.out.println("You will become a good programmer!");
         } else {
