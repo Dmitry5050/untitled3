@@ -13,7 +13,7 @@ public class Main {
         int naturalNumber = scanner.nextInt();
 
         if (naturalNumber < 1 || naturalNumber > 5) {
-            System.out.println("Your number is not in the specified range!");
+            System.out.println("Your  number is not in the specified range!");
         } else if (naturalNumber == 1) {
             System.out.println("Hi, how   are you doing?");
         } else if (naturalNumber == 2) {
@@ -24,7 +24,7 @@ public class Main {
         } else if (naturalNumber == 4) {
             System.out.println("You will become a good programmer!");
         } else {
-            System.out.println("See you soon!");
+            System.out.println("See  you soon!");
         }
 
     }
