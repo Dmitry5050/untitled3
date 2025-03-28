@@ -15,7 +15,7 @@ public class Main {
         if (naturalNumber < 1 || naturalNumber > 5) {
             System.out.println("Your number is not in the specified range!");
         } else if (naturalNumber == 1) {
-            System.out.println("Hi, how are you doing?");
+            System.out.println("Hi, how   are you doing?");
         } else if (naturalNumber == 2) {
             // The third error is in this block
             System.out.println("Have a good day!");
