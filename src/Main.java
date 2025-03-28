@@ -9,6 +9,8 @@ public class Main {
         // The second error is in this block
         Scanner scanner = new Scanner(System.in);
 
+
+
         int naturalNumber = scanner.nextInt();
 
         if (naturalNumber < 1 || naturalNumber > 5) {
